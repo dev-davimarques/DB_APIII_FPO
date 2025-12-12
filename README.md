@@ -70,5 +70,6 @@ A organização dos arquivos reflete as diferentes etapas de criação e manipul
 Abaixo está o **Diagrama Entidade-Relacionamento (DER)** que representa a estrutura lógica do banco de dados. Este diagrama detalha as entidades, seus atributos e os relacionamentos definidos no projeto.
 
 
+## 🗺️ Diagrama (Modelo Lógico)
 
-_**![MODELO LÓDIGO](/home/davi/github-projects/DB_APIII_FPO/assets/MODELO_LOGICO.png)**_
+![Modelo Lógico do Banco de Dados](assets/MODELO_LOGICO.png)
