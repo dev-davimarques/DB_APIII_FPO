@@ -63,7 +63,7 @@ A organização dos arquivos reflete as diferentes etapas de criação e manipul
 
 ---
 
-## 🗺️ Diagrama (Modelo Entidade-Relacionamento)
+## 🗺️ Diagrama Entidade-Relacionamento
 
 Abaixo está o **Diagrama Entidade-Relacionamento (DER)** que representa a estrutura lógica do banco de dados. Este diagrama detalha as entidades, seus atributos e os relacionamentos definidos no projeto.
 
