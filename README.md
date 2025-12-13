@@ -2,7 +2,7 @@
 
 ## 🚀 Visão Geral do Projeto
 
-Este projeto consiste na Etapa II de um Projeto Prático de Banco de Dados, focado na criação de um Sistema de Gestão (ERP) para uma clínica ou empresa que realiza o **tratamento e a venda de animais**.
+Este projeto consiste na Etapa II de um Projeto Prático de Banco de Dados, focado na criação de um Sistema de Gestão (ERP) para uma empresa que realiza o **tratamento e a venda de animais**.
 
 O sistema foi modelado para gerenciar informações cruciais sobre animais, estoque de produtos, controle financeiro, funcionários e a estrutura física da empresa (galpões), além de lidar com os diferentes tipos de entidades (Pessoa Física e Jurídica) que interagem com o negócio.
 
@@ -14,8 +14,6 @@ O sistema foi modelado para gerenciar informações cruciais sobre animais, esto
 * **Raimundo Avelino**
 
 ---
-
-## 🌳 Estrutura do Repositório
 
 ## 📁 Estrutura de Pastas
 
@@ -69,7 +67,5 @@ A organização dos arquivos reflete as diferentes etapas de criação e manipul
 
 Abaixo está o **Diagrama Entidade-Relacionamento (DER)** que representa a estrutura lógica do banco de dados. Este diagrama detalha as entidades, seus atributos e os relacionamentos definidos no projeto.
 
-
-## 🗺️ Diagrama (Modelo Lógico)
 
 ![Modelo Lógico do Banco de Dados](assets/MODELO_LOGICO.png)
